@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2398011551",
+    "firebase_url": "https://glamchat-f11ec.firebaseio.com",
+    "project_id": "glamchat-f11ec",
+    "storage_bucket": "glamchat-f11ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2398011551:android:960a7e87777a12761d62aa",
+        "android_client_info": {
+          "package_name": "com.sujitsarkar.glamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2398011551-ivmb48jkv7r6mkaiotmheb645eb5shhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sujitsarkar.glamchat",
+            "certificate_hash": "62ee45739081ec54bfcdd48ccc252729c5664e97"
+          }
+        },
+        {
+          "client_id": "2398011551-m1mktj161nuq4ujsim3e5g1qe12vhb3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwgrr3m4wq2Ct2GlKVb9iNFHHc8BLilA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2398011551-m1mktj161nuq4ujsim3e5g1qe12vhb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
